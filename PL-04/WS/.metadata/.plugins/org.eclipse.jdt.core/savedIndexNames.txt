@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+C:\Users\byjon\Desktop\UNI\CPM (Comunicacion persona-maquina)\Practicas\PL-04\WS\.metadata\.plugins\org.eclipse.jdt.core
-3979892372.index
-1210658807.index
